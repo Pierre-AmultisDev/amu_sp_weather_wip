@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelogs>
+   <!-- 
+   - See also https://docs.joomla.org/Adding_changelog_to_your_manifest_file
+   - Important: Every change requires a <changelog> element if it is to be shown in the backend 
+   - Version number should follow semantic versioning guidelines https://semver.org/
+   - structure:
+      <changelog>
+         <version>0.0.0.23</version>
+         <element>mod_amu_plotly_bubbleplots</element>
+         <type>module</type>
+         <security>
+            <item></item>
+            <item></item>
+         </security>
+         <fix>
+            <item></item>
+            <item></item>
+         </fix>
+         <language>
+            <item></item>
+            <item></item>
+         </language>
+         <addition>
+            <item></item>
+            <item></item>
+         </addition>
+         <change>
+            <item></item>
+            <item></item>
+         </change>
+         <remove>
+            <item></item>
+            <item></item>
+         </remove>
+         <note>
+            <item></item>
+            <item></item>
+         </note>
+      </changelog>
+   -->
+
+   <changelog>
+      <version>4.0.1.1</version>
+      <element>mod_amu_sp_weather_wip</element>
+      <type>module</type>
+      <addition>
+         <item>Initial version</item>
+      </addition>
+   </changelog>
+   
+   <changelog>
+      <version>4.0.1.2</version>
+      <element>mod_amu_sp_weather_wip</element>
+      <type>module</type>
+      <language>
+         <item>Added Dutch translation</item>
+      </language>
+      </change>
+   </changelog>
+
+   <changelog>
+      <version>4.0.1.3</version>
+      <element>mod_amu_sp_weather_wip</element>
+      <type>module</type>
+      <change>
+         <item>.gitattributes removed</item>
+      </change>
+   </changelog>
+   
+</changelogs>

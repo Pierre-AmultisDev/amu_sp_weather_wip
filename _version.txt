@@ -20,7 +20,7 @@
 # 
 # Changes should be commented in CHANGELOG.md
 #
-majorversion=0
+majorversion=4
 minorversion=0
 patchversion=1
-devversion=1
+devversion=3
